@@ -21,7 +21,7 @@
 
 ### Languages and Tools:  
 
-<img align="left" alt="HTML5" width="25px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" />
+<img style="font-color: white"align="left" alt="HTML5" width="25px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" />
 <img align="left" alt="CSS3" width="25px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg" />
 <img align="left" alt="JavaScript" width="25px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" />
 <img align="left" alt="Node.js" width="25px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" />
