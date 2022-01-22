@@ -3,7 +3,8 @@
 > - Developer 💾  
 > - Writer  🖊️  
 > - Musician  🎸  
-> - Contemplative creative type favoring the autodidactic, explorative mode  🦉  
+> - Contemplative creative type favoring autodidactic exploration  🦉  
+>> (But looking for a mentor!)
 > - Aspiring polymath with a knowledge obsession  📚  
 > - Wildly curious Human Bean  🌱    
 
