@@ -38,4 +38,7 @@
 [facebook]: https://www.facebook.com/jndiehl/
 [portfolio]: https://jaynewdee.github.io/Personal-Portfolio-Bluev2/
 [linkedin]: https://www.linkedin.com/in/joshua-diehl-4506a5221/
-[email]: mailto:jdiehl2236@gmail.com
+[email]: mailto:jdiehl2236@gmail.com  
+<br />
+
+*Note: Many of my current repositories are exercises in essential web development technologies and techniques, rather than real-world pursuits!  The professional journey has only just begun...*
