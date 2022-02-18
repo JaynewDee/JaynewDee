@@ -1,10 +1,10 @@
 ### Hello, Human!  
 ## I'm [**Joshua**][portfolio]
-> - Developer 💾  
-> - Writer  🖊️  
-> - Musician  🎸  
-> - Contemplative creative type favoring autodidactic exploration  🦉  
-> - Wildly curious Human Bean  🌱 
+> - 💾 Developer   
+> - 🖊️ Writer    
+> - 🎸 Musician    
+> - 🦉 Contemplative creative type favoring autodidactic exploration    
+> - 🌱 Wildly curious Human Bean  
 >>>> (Looking for a mentor!) 
    
 
