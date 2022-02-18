@@ -9,13 +9,13 @@
 
 ### Reach out:  
 
-[<img align="left" alt="Joshua Diehl on Facebook" width="25px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" />][facebook]  ||  FaceBook
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/jndiehl/) [Facebook]    
 <br />  
-[<img align="left" alt="Joshua Diehl on LinkedIn" width="25px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />][linkedin]  ||  LinkedIn
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [LinkedIn]    
 <br />  
-[<img align="left" alt="Joshua's Portfolio page" width="25px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/readthedocs.svg" />][portfolio]  ||  Personal Portfolio
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) [Portfolio]    
 <br />    
-[<img align="left" alt="send email to Joshua" width="25px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" />][email]  ||  E-Mail
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [EMail]    
 
 <br />
 
@@ -34,10 +34,10 @@
 <br />  
 <br />
 
-[facebook]: https://www.facebook.com/jndiehl/
-[portfolio]: https://jaynewdee.github.io/Personal-Portfolio-Bluev2/
-[linkedin]: https://www.linkedin.com/in/joshua-diehl-4506a5221/
-[email]: mailto:jdiehl2236@gmail.com  
+[Facebook]: https://www.facebook.com/jndiehl/
+[Portfolio]: https://jaynewdee.github.io/Personal-Portfolio-Bluev2/
+[LinkedIn]: https://www.linkedin.com/in/joshua-diehl-4506a5221/
+[EMail]: mailto:jdiehl2236@gmail.com  
 <br />
 
 *Note: Many of my current repositories are exercises in essential web development technologies and techniques, rather than real-world pursuits!  The professional journey has only just begun...*
