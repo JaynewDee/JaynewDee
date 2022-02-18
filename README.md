@@ -4,8 +4,7 @@
 > - Writer  🖊️  
 > - Musician  🎸  
 > - Contemplative creative type favoring autodidactic exploration  🦉  
->>>> (But looking for a mentor!)
-> - Aspiring polymath with a knowledge obsession  📚  
+>>>> (But looking for a mentor!) 
 > - Wildly curious Human Bean  🌱    
 
 ### Reach out:  
