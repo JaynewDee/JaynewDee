@@ -21,16 +21,14 @@
 
 ### Languages and Tools:  
 
-<img align="left" alt="HTML5" width="25px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" />
-<img align="left" alt="CSS3" width="25px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg" />
-<img align="left" alt="JavaScript" width="25px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" />
-<img align="left" alt="Node.js" width="25px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" />
-<img align="left" alt="Express" width="25px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/express.svg" />
-<img align="left" alt="MongoDB" width="25px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mongodb.svg" />
-<img align="left" alt="React" width="25px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" />
-<img align="left" alt="GitHub" width="25px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />
-<img align="left" alt="Material Design" width="25px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/materialdesign.svg" />
-  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)  
 <br />  
 <br />
 
