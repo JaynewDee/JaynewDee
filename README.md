@@ -4,8 +4,9 @@
 > - Writer  🖊️  
 > - Musician  🎸  
 > - Contemplative creative type favoring autodidactic exploration  🦉  
->>>> (But looking for a mentor!) 
-> - Wildly curious Human Bean  🌱    
+> - Wildly curious Human Bean  🌱 
+>>>> (Looking for a mentor!) 
+   
 
 #### **NOTE**: *I am currently on the lookout for an entry level position as a software developer and any opportunities to meaningfully collaborate!*
 
