@@ -11,10 +11,10 @@
 
 ### Reach out:  
 
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/jndiehl/) [Facebook]<br />  
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [LinkedIn]<br />  
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) [Portfolio]<br />    
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [EMail]<br />  
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/jndiehl/) -->| [Facebook] |<-- <br />  
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) -->| [LinkedIn] |<--<br />  
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) -->| [Portfolio] |<--<br />    
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) -->| [EMail] |<--<br />  
 <br />
 
 ### Languages and Tools:  
@@ -36,5 +36,5 @@
 [Facebook]: https://www.facebook.com/jndiehl/
 [Portfolio]: https://jaynewdee.github.io/Personal-Portfolio-Bluev2/
 [LinkedIn]: https://www.linkedin.com/in/joshua-diehl-4506a5221/
-[EMail]: mailto:jdiehl2236@gmail.com  
+[eMailMe]: mailto:jdiehl2236@gmail.com  
 <br />
