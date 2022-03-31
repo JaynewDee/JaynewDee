@@ -14,7 +14,6 @@
 
 -->| [FACEBOOK] |<-- <br />  
 -->| [LINKEDIN] |<--<br />  
-  <br />
 -->| [PORTFOLIO] |<--<br />    
 -->| [E-MAIL] |<--<br />  
 <br />
@@ -38,5 +37,5 @@
 [Facebook]: https://www.facebook.com/jndiehl/
 [Portfolio]: https://jaynewdee.github.io/Personal-Portfolio-Bluev2/
 [LinkedIn]: https://www.linkedin.com/in/joshua-diehl-4506a5221/
-[eMailMe]: mailto:jdiehl2236@gmail.com  
+[e-Mail]: mailto:jdiehl2236@gmail.com  
 <br />
