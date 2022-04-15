@@ -8,7 +8,7 @@
 >>>> (Looking for a mentor!) 
    
 
-#### **NOTE**: *I am currently on the lookout for an entry level position as a software developer and any opportunities to meaningfully collaborate!*
+#### **NOTE**: *I am currently on the lookout for an entry level position as a software developer, and any opportunities to meaningfully collaborate!*
 
 ### Reach out:  
 
