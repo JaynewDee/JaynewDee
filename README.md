@@ -1,5 +1,5 @@
 ### Hello, Human!  
-## I'm [**Joshua**]
+## I'm [ **Joshua** ]
 > - 💾 Developer   
 > - 🖊️ Writer    
 > - 🎸 Musician    
