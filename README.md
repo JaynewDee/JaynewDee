@@ -1,5 +1,5 @@
 ### Hello, Human!  
-## I'm [**Joshua**][portfolio]
+## I'm [**Joshua**]
 > - 💾 Developer   
 > - 🖊️ Writer    
 > - 🎸 Musician    
@@ -36,8 +36,7 @@
 <br />  
 <br />
 
-[Facebook]: https://www.facebook.com/jndiehl/
-[Portfolio]: 
+[Facebook]: https://www.facebook.com/jndiehl/  
 [LinkedIn]: https://www.linkedin.com/in/joshua-diehl-4506a5221/
 [e-Mail]: mailto:jdiehl2236@gmail.com  
 <br />
