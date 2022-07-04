@@ -38,6 +38,6 @@
 
 [Facebook]: https://www.facebook.com/jndiehl/  
 [LinkedIn]: https://www.linkedin.com/in/joshua-diehl-4506a5221/  
-[Portfolio]: syntheticrain.net
+[Portfolio]: http://www.syntheticrain.net
 [e-Mail]: mailto:jdiehl2236@gmail.com  
 <br />
