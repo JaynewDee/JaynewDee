@@ -1,4 +1,4 @@
-### Hello, Human!  
+### Hello!
 ## I'm [ **Joshua** ]
 > - 💾 Developer   
 > - 🖊️ Writer    
