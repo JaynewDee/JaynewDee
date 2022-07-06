@@ -1,8 +1,6 @@
 ### Hello!
 ## I'm [ **Joshua** ]
 > - 💾 Developer   
-> - 🖊️ Writer    
-> - 🎸 Musician    
 > - 🦉 Contemplative creative type favoring autodidactic exploration    
 > - 🌱 Wildly curious Human Bean  
 >>>> (Looking for a mentor!) 
