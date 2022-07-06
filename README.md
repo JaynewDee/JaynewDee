@@ -3,7 +3,6 @@
 > - 💾 Developer   
 > - 🦉 Contemplative creative type favoring autodidactic exploration    
 > - 🌱 Wildly curious Human Bean  
->>>> (Looking for a mentor!) 
    
 
 #### **NOTE**: *I am currently on the lookout for an entry level position as a software developer and opportunities to meaningfully collaborate.  Let's build something awesome!*
