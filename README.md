@@ -4,8 +4,7 @@
 > - 🦉 Contemplative creative type favoring autodidactic exploration    
 > - 🌱 Wildly curious Human Bean  
    
-
-#### **NOTE**: *I am currently on the lookout for an entry level position as a software developer and opportunities to meaningfully collaborate.  Let's build something awesome!*
+Let's build something awesome!*
 
 ### Reach out:  
 
