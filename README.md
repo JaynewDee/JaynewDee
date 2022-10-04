@@ -1,8 +1,8 @@
 ### Hello!
 ## I'm [ **Joshua** ]
 > - 💾 Student Engineer  
-> - 🦉 Contemplative creative type favoring autodidactic exploration    
-> - 🌱 Wildly curious Human Bean  
+> - 🦉 Contemplative creative type
+> - 🌱 Curious human bean
    
 Let's build something awesome!*
 
