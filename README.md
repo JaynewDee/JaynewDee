@@ -8,10 +8,11 @@ Let's build something awesome!*
 
 ### Reach out:  
 
--->| [FACEBOOK] |<-- <br />  
--->| [LINKEDIN] |<--<br />  
--->| [PORTFOLIO] |<--<br />    
--->| [E-MAIL] |<--<br />  
+-->| [LINKEDIN] |<--<br />
+-->| [PORTFOLIO] |<--<br />
+-->| [E-MAIL] |<--<br />
+-->| [FACEBOOK] |<-- <br />
+
 <br />
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
