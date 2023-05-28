@@ -36,8 +36,7 @@
 <br />  
 <br />
 ___
-![Git Dev Stats](https://github-readme-stats.vercel.app/api?username=JaynewDee&show_icons=true)  
-___
+
 [Facebook]: https://www.facebook.com/jndiehl/  
 [LinkedIn]: https://www.linkedin.com/in/joshua-diehl-4506a5221/  
 [Portfolio]: http://www.syntheticrain.net
