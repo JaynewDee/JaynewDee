@@ -1,6 +1,6 @@
 ### Hello!
 ## I'm [ **Joshua** ]
-> - 💾 Student Engineer  
+> - 💾 Software Engineer  
 > - 🦉 Contemplative creative type
 > - 🌱 Curious human bean
    
