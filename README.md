@@ -1,4 +1,5 @@
-### Hello!
+### Hello!  
+
 ## I'm [ **Joshua** ]
 > - 💾 Software Engineer  
 > - 🦉 Contemplative creative type
@@ -37,6 +38,6 @@ ___
 
 [Facebook]: https://www.facebook.com/jndiehl/  
 [LinkedIn]: https://www.linkedin.com/in/joshua-diehl-4506a5221/  
-[Portfolio]: http://www.syntheticrain.net
+[Portfolio]: https://jd-2023.vercel.app
 [e-Mail]: mailto:jdiehl2236@gmail.com  
 <br />
