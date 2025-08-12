@@ -4,8 +4,6 @@
 > - 💾 Software Engineer  
 > - 🦉 Contemplative creative type
 > - 🌱 Curious human bean
-   
-*Let's build something awesome!*
 
 ### Reach out:  
 
